@@ -4,5 +4,5 @@ some description.!
 
 ## subheader
 
-trying to learn github.
+trying to learn git and github.
 and be a better programmer.
